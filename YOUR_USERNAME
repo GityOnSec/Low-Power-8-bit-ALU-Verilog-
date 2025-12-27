@@ -1,0 +1,7 @@
+cd low-power-alu-verilog
+git init
+git add .
+git commit -m "Initial commit - Low Power ALU Verilog Project"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/low-power-alu-verilog.git
+git push -u origin main
