@@ -1,0 +1,11 @@
+low-power-alu-verilog/
+├── LICENSE
+├── README.md
+├── src/
+│   ├── alu.v
+│   ├── clk_gate.v
+│   └── operand_isolation.v
+├── tb/
+│   └── alu_tb.v
+└── sim/
+    └── run.sh
